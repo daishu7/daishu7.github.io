@@ -1,0 +1,66 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   _config.yml
+#	new file:   _includes/duplicate.html
+#	new file:   _includes/footer.html
+#	new file:   _includes/head.html
+#	new file:   _includes/header.html
+#	new file:   _layouts/default.html
+#	new file:   _layouts/page.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2015-02-10-welcome-to-jekyll.markdown
+#	new file:   _posts/2015-02-12-create-my-blog-with-jekyll.md
+#	new file:   _posts/2015-03-21-teach-girlfriend-html-css.md
+#	new file:   _posts/2015-03-26-sublimeLinter.md
+#	new file:   _posts/2015-04-06-arrays-similar.md
+#	new file:   _posts/2015-04-12-Syncing-a-fork.md
+#	new file:   _posts/2015-04-15-baidu-ife-1.md
+#	new file:   _posts/2015-04-22-baidu-ife-2-javascript.md
+#	new file:   _posts/2015-05-18-front-end-tools.md
+#	new file:   _posts/2015-05-20-scope.md
+#	new file:   _sass/_base.scss
+#	new file:   _sass/_layout.scss
+#	new file:   css/pics/browser.png
+#	new file:   css/pics/browser2.png
+#	new file:   css/pics/canvas_bg.jpg
+#	new file:   css/pics/jekyll-setup-finish.png
+#	new file:   css/pics/jekyll-setup.png
+#	new file:   css/pics/jekyllFiles.png
+#	new file:   css/pics/jekyllWorkSpace.png
+#	new file:   css/pics/ruby-gems-setup.png
+#	new file:   css/pics/ruby-gems.png
+#	new file:   css/pics/ruby-v.png
+#	new file:   css/pics/serve-sucess.png
+#	new file:   css/pics/serve.png
+#	new file:   css/pics/yajl.png
+#	new file:   feed.xml
+#	new file:   index.html
+#	new file:   pages/1demo.html
+#	new file:   pages/2about.md
+#	new file:   pages/2archive.html
+#	new file:   static/css/bootstrap.min.css
+#	new file:   static/css/index.css
+#	new file:   static/js/bootstrap.min.js
+#	new file:   static/js/index.js
+#	new file:   static/js/jquery-1.11.1.min.js
+#	new file:   works/bootstrap-zhihu/css/bootstrap.css
+#	new file:   works/bootstrap-zhihu/css/bootstrap.min.css
+#	new file:   works/bootstrap-zhihu/css/index.css
+#	new file:   works/bootstrap-zhihu/fonts/glyphicons-halflings-regular.eot
+#	new file:   works/bootstrap-zhihu/fonts/glyphicons-halflings-regular.svg
+#	new file:   works/bootstrap-zhihu/fonts/glyphicons-halflings-regular.ttf
+#	new file:   works/bootstrap-zhihu/fonts/glyphicons-halflings-regular.woff
+#	new file:   works/bootstrap-zhihu/fonts/glyphicons-halflings-regular.woff2
+#	new file:   works/bootstrap-zhihu/index.html
+#	new file:   works/bootstrap-zhihu/js/bootstrap.min.js
+#	new file:   works/bootstrap-zhihu/js/jquery-1.11.1.min.js
+#
+
